@@ -1,0 +1,14 @@
+-classpath '/home/saram/programming/lab07/71-custom-iterable/build/classes/java/main:/home/saram/programming/lab07/71-custom-iterable/build/resources/main'
+-quiet 
+-d '/home/saram/programming/lab07/71-custom-iterable/build/docs/javadoc'
+-windowtitle '71-custom-iterable API'
+-doctitle '71-custom-iterable API'
+-notimestamp 
+'/home/saram/programming/lab07/71-custom-iterable/src/main/java/it/unibo/inner/api/IterableWithPolicyImpl.java'
+'/home/saram/programming/lab07/71-custom-iterable/src/main/java/it/unibo/inner/api/Predicate.java'
+'/home/saram/programming/lab07/71-custom-iterable/src/main/java/it/unibo/inner/api/IterableWithPolicy.java'
+'/home/saram/programming/lab07/71-custom-iterable/src/main/java/it/unibo/inner/TestIterablePlain.java'
+'/home/saram/programming/lab07/71-custom-iterable/src/main/java/it/unibo/inner/TestIterableWithPolicy.java'
+'/home/saram/programming/lab07/71-custom-iterable/src/main/java/it/unibo/inner/test/api/Product.java'
+'/home/saram/programming/lab07/71-custom-iterable/src/main/java/it/unibo/inner/test/Assertions.java'
+'/home/saram/programming/lab07/71-custom-iterable/src/main/java/it/unibo/inner/test/impl/ProductImpl.java'
